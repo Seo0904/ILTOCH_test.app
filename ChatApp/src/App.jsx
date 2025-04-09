@@ -31,6 +31,8 @@ function App() {
         二村
         <Example />
         うめき
+        moro
+        
       </p>
     </>
   )
